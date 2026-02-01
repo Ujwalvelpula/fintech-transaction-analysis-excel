@@ -68,14 +68,34 @@ _(Click on the image to enlarge)_
 
 <img width="1920" height="764" alt="dashboard" src="https://github.com/user-attachments/assets/bafdea12-047d-4010-bbc3-3063e16c1735" />
 
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/84795f99-c282-46ac-b3ee-3577b0703b03" />
+
+
+
 
 ---
 
-## 💡 How to View
-1. Open `data/fintech_transactions_clean.xlsx`
-2. View the **Dashboard** sheet to see charts
-3. Review pivot tables and supporting insights
+## 🧠 How to View the Project
 
+1. Download `fintech_transactions_clean.xlsx` from the `data` folder  
+2. Open it in Microsoft Excel  
+3. Navigate to the **Dashboard** sheet to view charts  
+4. Explore PivotTables for deeper analysis
+
+---
+## 💡 What I Learned
+
+- Cleaning and structuring raw CSV data in Excel  
+- Building PivotTables for aggregation and trend analysis  
+- Creating PivotCharts and KPI-based dashboards  
+- Translating data findings into business insights
+
+---
+## 🚀 Future Improvements
+
+- Perform the same analysis using Python (Pandas)  
+- Add SQL-based querying for deeper analysis  
+- Expand the dataset to include multiple months
 ---
 
 ## 🙌 Outcome
