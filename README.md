@@ -66,7 +66,8 @@ The following analyses were completed:
 ## 📷 Dashboard Preview
 _(Click on the image to enlarge)_
 
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
+<img width="1920" height="764" alt="dashboard" src="https://github.com/user-attachments/assets/bafdea12-047d-4010-bbc3-3063e16c1735" />
+
 
 ---
 
