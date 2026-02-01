@@ -33,3 +33,5 @@ The dataset contains fintech transaction records including:
 
 ## Outcome
 Built an interactive Excel dashboard and summarized insights to support data-driven decision-making.
+<img width="1920" height="764" alt="dashboard" src="https://github.com/user-attachments/assets/1c96a1b9-4057-4e86-aff4-1c790ca58f12" />
+
